@@ -1,3 +1,1 @@
-# simpleChatAMQP
-# simpleChatAMQP
-# simpleChatAMQP
+# Simple Chat Application with AMQP
